@@ -1,0 +1,10 @@
+[project]
+name = "call_me_maybe"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "accelerate>=1.14.0",
+    "pydantic>=2.13.5",
+    "torch>=2.14.0",
+    "transformers>=5.16.1",
+]
